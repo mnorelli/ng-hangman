@@ -9,3 +9,6 @@ body { font-size: 32px; }
   font-size: 14px;
   vertical-align: middle;
 }
+.wordSoFar {
+  text-align: center;
+}
